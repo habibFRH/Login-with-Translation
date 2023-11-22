@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login2</string>
+    <string name="login_successful">Connexion réussie</string>
+    <string name="invalid_credentials">Nom d\'utilisateur ou mot de passe incorrect</string>
+    <string name="login_app">Authentication</string>
+    <string name="Username">Nom d\'utilisateur</string>
+    <string name="Password">mot de passe</string>
+    <string name="log_in_btn">Connexion</string>
+</resources>
